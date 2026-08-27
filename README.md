@@ -79,11 +79,11 @@
 
     <div class="container">
         <h2>Standing as One — Project Overview</h2>
-        <p>Coordinated by project lead <strong>Aj Rivers</strong>, <em>Standing as One</em> is a groundbreaking educational comic book series and curriculum. Follow the journey from historical removal to complete cultural reclamation, featuring youth guides <strong>Stella Grace (9)</strong>, <strong>Alaylah (4–5)</strong>, and <strong>Kaiden (3–4)</strong>.</p>
+        <p>Created by nonfiction author <strong>Angelia Eaton</strong>, <em>Standing as One</em> is a groundbreaking educational comic book series and curriculum. Follow the journey from historical realities to empowered futures through visual storytelling grounded in research, data sovereignty, and Indigenous restoration principles.</p>
 
         <div class="pledge-box">
             <h3>The 80/20 Indigenous Restoration Proclamation Pledge</h3>
-            <p>Eighty percent (80%) of net revenue from all sales goes directly into the Indigenous Restoration Proclamation Fund to support accredited college tuition, language immersion, living stipends, and the physical restoration of traditional arts—including beadwork, textile/blanket weaving, bamboo architecture, river cane basketry, and ancestral food processing methods.</p>
+            <p>Eighty percent (80%) of net revenue from all sales goes directly into the Indigenous Restoration Proclamation Fund to support accredited college tuition, language immersion, living stipends for traditional artisans, and community-led restoration initiatives.</p>
         </div>
 
         <h2>Educational Comic Series & Youth Package</h2>
@@ -97,7 +97,7 @@
     </div>
 
     <footer>
-        <p>&copy; Angel Arms Media. All rights reserved. Coordinated by Aj Rivers.</p>
+        <p>&copy; Angel Arms Media. All rights reserved. Created by Angelia Eaton.</p>
     </footer>
 
 </body>
